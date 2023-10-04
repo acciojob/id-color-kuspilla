@@ -3,6 +3,10 @@
 #yellow{
 	border-width : 1px;
 	border-color: green;
+	border-left-style : solid;
+	border-right-style : solid;
+	border-bottom-style : solid; 
+	border-top-style : solid;
 	background-color : yellow;
 	color : black;
 }
@@ -10,6 +14,10 @@
 #red{
 	border-width : 1px;
 	border-color: black;
+	border-left-style : solid;
+	border-right-style : solid;
+	border-bottom-style : solid; 
+	border-top-style : solid;
 	background-color : red;
 	color : black;
 }
@@ -17,6 +25,10 @@
 #green{
 	border-width : 1px;
 	Border-color: yellow;
+	border-left-style : solid;
+	border-right-style : solid;
+	border-bottom-style : solid; 
+	border-top-style : solid;
 	background-color : green;
 	color : black;
 }
